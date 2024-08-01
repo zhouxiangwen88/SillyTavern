@@ -5,7 +5,7 @@ dataRoot: ./data
 # Listen for incoming connections
 listen: true
 # Server port
-port: 8000
+port: 15013
 # -- SECURITY CONFIGURATION --
 # Toggle whitelist mode
 whitelistMode: false
